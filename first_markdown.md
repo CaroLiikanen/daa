@@ -1,6 +1,6 @@
 # Caro's **Epic** _Poggers_ Markdown Messaround File
 
-## This is a table, my dude
+## This is a table, my dude 
 <br>
 
 Swag | Yolo | Pog
@@ -17,4 +17,5 @@ many line breaks are many <br><br>
 3. [My epic carrd](caroscribbles.carrd.co)
 <br> <br>
 ### the enemy's gate is down <br><br>
-[go to the (less epic) readme file here](/README.md)
+[go to the (less epic) readme file here](/README.md) <br>
+

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "First Markdown""
+rank: 1
+---
 # Caro's **Epic** _Poggers_ Markdown Messaround File
 
 ## This is a table, my dude 
